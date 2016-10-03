@@ -1,5 +1,8 @@
 # Skeleton Outline of OSPlaybook
 
+## INTRODUCTION
+Defining terms, describing scope.
+
 ## BEFORE YOU BEGIN
 
 ### Getting Clearance
@@ -11,7 +14,7 @@ Vetting the project idea, making sure it's right for open source, initial scopin
 ### Open Sourcing an Existing Project
 Common challenges of open sourcing after the fact, methods for tackling obstacles.
 
-## GETTING TO THE FIRST RELEASE
+## THE FIRST RELEASE
 
 ### Code
 How to repo, useful abstraction, handling assets.
@@ -27,7 +30,7 @@ Levels of community engagement, building for productive interactions.
 ### Managing Releases
 Release types and use cases, frequency, communication.
 
-## Handoffs and Sunsets
+### Handoffs and Sunsets
 Building to withstand organizational change, how to handle various futures.
 
 ## BEST PRACTICES
