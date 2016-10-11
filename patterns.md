@@ -13,7 +13,7 @@ https://github.com/substack/browserify-handbook
 ![Inline context-setting in Django](django_context.png)
 https://docs.djangoproject.com/en/1.10/intro/tutorial01/#creating-the-polls-app
 
-![Audience-branching context-setting in jQuery](Context-setting in jQuery)
+![Audience-branching context-setting in jQuery](jquery_context.png)
 https://learn.jquery.com/
 
 ### Examples Galore
